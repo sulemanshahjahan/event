@@ -3,7 +3,7 @@
   {
     "id": 123,
     "category": "animal welfare",
-    "title": "Residential Lights",
+    "title": "Residential",
 	"image":"https://tapita.io/pb/pub/media/spb/usr/3866/oti/1658751360605/img1250-w14002x.png",
     "description": "Click to learn more about residential lighting.",
     "location": "Meow Town",
@@ -36,7 +36,7 @@
 	  {
     "id": 112,
     "category": "animal welfare",
-    "title": "Residential Lights",
+    "title": "Outdoor",
 	"image":"https://tapita.io/pb/pub/media/spb/usr/3866/oti/1658751360605/img1250-w14002x.png",
     "description": "Click to learn more about residential lighting.",
     "location": "Meow Town",
@@ -47,7 +47,7 @@
   {
     "id": 113,
     "category": "food",
-    "title": "Commercial",
+    "title": "Bithday Party",
 	"image":"https://tapita.io/pb/pub/media/spb/usr/3866/oti/1658751360606/img0732-w14002x-1.png",
     "description": "Click to learn more about commercial lighting.",
     "location": "Flora City",
@@ -58,7 +58,7 @@
   {
     "id": 114,
     "category": "sustainability",
-    "title": "Marine",
+    "title": "Disco",
 	"image":"https://tapita.io/pb/pub/media/spb/usr/3866/oti/1658751360605/photo-jul-04-10-14-40-pm-w14002x-1.png",
     "description": "Click to learn more about marine lighting.",
     "location": "Playa Del Carmen",
